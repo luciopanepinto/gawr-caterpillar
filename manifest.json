@@ -1,17 +1,17 @@
 {
   "name": "Game And Watch Remaster - Caterpillar",
   "description": "Play Game And Watch Remaster with Caterpillar built in HTML5",
-  "version": "1.1",
+  "version": "1.3",
   "manifest_version": 2,
   "icons": {
     "128": "icon_128.png"
   },
   "app": {
     "urls": [
-      "https://b568579451df0339eaf6ca49b236c413b938d88b-www.googledrive.com/host/0B4HFlS9vdbwFfld6ai14anJkdmx3NWduQWVEc1NCWDVkVTJMdnk4YXZKOXpISXg5bmV3RXc/"
+      "https://gawr-caterpillar.firebaseapp.com/"
     ],
     "launch": {
-      "web_url": "https://b568579451df0339eaf6ca49b236c413b938d88b-www.googledrive.com/host/0B4HFlS9vdbwFfld6ai14anJkdmx3NWduQWVEc1NCWDVkVTJMdnk4YXZKOXpISXg5bmV3RXc/"
+      "web_url": "https://gawr-caterpillar.firebaseapp.com/"
     }
   }
 }
